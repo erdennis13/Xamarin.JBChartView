@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Xamarin.JBChartView</id>
+    <version>1.0.0</version>
+    <authors>Ethan Dennis</authors>
+    <owners>Ethan Dennis</owners>
+    <licenseUrl>https://github.com/erdennis13/Xamarin.JBChartView/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/erdennis13/Xamarin.JBChartView</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin.iOS binding library for JBChartView</description>
+    <releaseNotes>Initial nuget release.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Xamarin.iOS Binding JBChartView</tags>
+  </metadata>
+    <files>
+      <file src="Xamarin.JBChartView/bin/Release/*.dll" target="lib/Xamarin.iOS10"/>
+  </files>
+</package>
